@@ -1,2 +1,2 @@
 # TODO
-* qanda review 
+* qanda review - Word2Vector
