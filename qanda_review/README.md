@@ -5,7 +5,8 @@ Mathpresso의 Qanda review 분석<br>
 
 
 # Environments
-* 
+* Python 3.6.7
+* 상세 python packge는 노트북 
 
 
 
